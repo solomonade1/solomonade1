@@ -6,10 +6,12 @@ Web Developer
 
 I am a passionate and self-motivated web developer with significant technical talent, self-discipline, and the ability to work with minimal supervision. A quick learner who can grasp new ideas and communicate them clearly and effectively. Capable of playing an important role in developing a website to ensure optimal usability, accessibility, and excellent user experience.
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [solomonadegboyeg1@gmail.com](mailto:solomonadegboyeg1@gmail.com)
-* 🧠  I'm learning NUXT and Node JS
-* 🤝  I'm open to collaborating on source projects, hackathons, internships, and entry-level opportunities.
+*   REACT JS and VUE JS expert
+* Node, Express, Nest JS expert
+* Next, Nuxt and Nest expert
+* Solidity and Web 3 expert
+* You can contact me at [solomonadegboyeg1@gmail.com](mailto:solomonadegboyeg1@gmail.com)
+*  I'm open to collaborating on source projects, hackathons, internships, and entry-level opportunities.
 
 ### Skills
 
