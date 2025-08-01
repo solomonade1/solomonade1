@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==========================================================================================================================================
 
-Web Developer
+Software Developer
 -------------
 
 I am a passionate and self-motivated web developer with significant technical talent, self-discipline, and the ability to work with minimal supervision. A quick learner who can grasp new ideas and communicate them clearly and effectively. Capable of playing an important role in developing a website to ensure optimal usability, accessibility, and excellent user experience.
